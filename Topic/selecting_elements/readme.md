@@ -1,4 +1,3 @@
-Sure! Let's start with the basics. When you build a webpage, you have a **document** (a webpage) with **elements** inside it, like paragraphs, images, buttons, and divs. These elements have specific roles, like showing text, allowing users to click, or displaying images. 
 
 In JavaScript, you can **access** and **manipulate** these elements to make the webpage interactive. To do that, you need to **select** them first.
 
